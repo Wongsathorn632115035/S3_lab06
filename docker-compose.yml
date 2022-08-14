@@ -1,4 +1,4 @@
-version: "3.3"
+version: "3.9"
 sevices:
     web:
         image: "markwst/se331-lab06:latest"
