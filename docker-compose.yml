@@ -1,5 +1,5 @@
-version: "3.3"
-sevices:
+version: "3.9"
+services:
     web:
         image: "markwst/se331-lab06:latest"
         ports:
