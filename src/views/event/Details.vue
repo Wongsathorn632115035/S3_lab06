@@ -1,6 +1,6 @@
 <template>
-  <p>{{ event.time }} on {{ event.date }} @ {{ event.location }}</p>
-  <p>{{ event.description }}</p>
+  <p>{{ event.id }} on {{ event.organizer }} @ {{ event.location }}</p>
+ 
 </template>
 
 <script>
